@@ -174,7 +174,7 @@ void MainWindow::setupUi() {
     // --- 5. Status Bar --- (No changes here)
     m_statusLabel = new QLabel("Status: Initializing...");
     statusBar()->addWidget(m_statusLabel, 1);
-    statusBar()->addPermanentWidget(new QLabel("Made by Texesh"));
+    statusBar()->addPermanentWidget(new QLabel(""));
 
 
     centralWidget->setLayout(mainLayout);
