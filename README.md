@@ -92,7 +92,3 @@ Contributions are welcome.
 ## License & Contact
 
 Include your preferred license here. For bugs or questions contact: `me@oliver-w.com`.
-
----
-
-*Happy drafting!*
