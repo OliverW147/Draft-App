@@ -2,7 +2,7 @@
 
 **A drafting tool for Brawl Stars.**
 
-![Draft simulator screenshot][(https://github.com/OliverW147/Draft-App/blob/main/example.png)]
+![Draft simulator screenshot](https://github.com/OliverW147/Draft-App/blob/main/example.png)
 
 **Important:** Because recommendations are produced by an MCTS guided by a heuristic evaluator derived from historical statistics, the tool provides *statistically strong picks on average* — useful guidance for robust choices — but it does not guarantee optimal picks for every individual draft.
 
